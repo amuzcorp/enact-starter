@@ -15,6 +15,7 @@ Enact.js 관련 문서는 [여기](./docs/README.md) 를 참고해주세요.
 - @enact/ui
 - @enact/webos
 - typescript
+- styled-components
 
 ## 프로젝트 설정 방법
 
